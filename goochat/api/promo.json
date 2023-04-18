@@ -1,12 +1,7 @@
 {
   "url": "https://google.com",
   "title": "ChatGPT in Google",
-  "text": "Result from ChatGPT",
-  "label": 
-  {
-    "text": "Additional information",
-    "url": "https://example.com"
-  },
+  "text": "The text above is result of request to ChatGPT.",
   "image": 
   {
     "url": "https://kenamdev.github.io/goochat/logo.png",
@@ -14,6 +9,6 @@
   },
   "footer": 
   {
-    "text": "Footer"
+    "text": "Have a nice day!"
   }
 }
