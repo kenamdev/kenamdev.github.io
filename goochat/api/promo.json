@@ -1,19 +1,19 @@
 {
   "url": "https://google.com",
-  "title": "Ads title",
-  "text": "Some ads text. Some ads text. Some ads text. Some ads text. Some ads text. Some ads text. Some ads text. Some ads text. Some ads text.",
+  "title": "ChatGPT in Google",
+  "text": "Result from ChatGPT",
   "label": 
   {
-    "text": "Label text",
+    "text": "Additional information",
     "url": "https://example.com"
   },
   "image": 
   {
-    "url": "https://www.pngall.com/wp-content/uploads/13/Sale-Badge-Promotion-PNG-Cutout.png",
+    "url": "https://kenamdev.github.io/goochat/logo.png",
     "size": 512
   },
   "footer": 
   {
-    "text": "Footter text"
+    "text": "Footer"
   }
 }
